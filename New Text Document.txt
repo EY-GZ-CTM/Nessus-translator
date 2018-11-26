@@ -1,0 +1,10 @@
+﻿#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+# import csv
+import pandas as pd
+import numpy as np
+import sys
+import numpy as np
+
+vultitle=pd.DataFrame(pd.read_excel('nessus-name.xlsx',header=0))
+print vultitle['英文标题（与nessus导出一致）']
