@@ -1,0 +1,37 @@
+http://10.1.128.129/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+
+http://jira.ifunplus.cn//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+
+https://jira.cvte.com/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+
+
+
+http://jira.ifunplus.cn//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com   开心农场
+http://sefon.com:1080/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com     四方科技
+http://222.29.240.253/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com     中国人民大学
+
+https://jirax.vw.com.cn//plugins/servlet/oauth/users/icon-uri?consumerUri=http://192.168.51.23:80   大众
+2018-11-11 16:05:47,625 WARNING FOUND 192.168.51.23:80<OK>
+2018-11-11 16:05:47,999 WARNING FOUND 192.168.51.22:80<OK>
+2018-11-11 16:07:32,690 WARNING FOUND 192.168.52.5:8080<OK>
+2018-11-11 16:07:36,309 WARNING FOUND 192.168.52.15:8080<OK>
+
+http://jira.skyoss.com//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+http://j.quyiyuan.com//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com   趣医网
+
+http://jira.ehsy.com//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com    西域
+https://jira2.rd.chanjet.com/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+http://121.40.168.186:9000//plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+http://jira.dev.wisecrm.com/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+http://jira.bdfint.com/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
+
+https://jira.bangcle.net/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com    梆梆
+
+http://jira.95071222.net/plugins/servlet/oauth/users/icon-uri?consumerUri=https://www.baidu.com
