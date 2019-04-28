@@ -40,10 +40,10 @@ def translate(q_word=None):
     try:
         httpClient = httplib.HTTPConnection('api.fanyi.baidu.com')
         httpClient.request('GET', myurl)
-        #print myurl
+
         # response是HTTPResponse对象
         response = httpClient.getresponse()
-        #print response.read()
+        # print response.read()
         res = json.load(response)
         xx = res['trans_result'][0]['dst']
         return xx
